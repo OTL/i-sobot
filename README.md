@@ -10,3 +10,7 @@ Servo information
 * Orange -> 3.3V
 
 You need level converter if you want to use 5V arduino.
+
+video
+-----------
+http://www.youtube.com/watch?v=Zgty2iVV5jY
