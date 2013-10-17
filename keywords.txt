@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For Matrix
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+i_sobot	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+writeAngles	KEYWORD2
+writeHeadAngles	KEYWORD2
+writeRarmAngles	KEYWORD2
+writeLarmAngles	KEYWORD2
+writeRlegAngles	KEYWORD2
+writeLlegAngles	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
